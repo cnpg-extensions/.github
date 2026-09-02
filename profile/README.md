@@ -1,6 +1,6 @@
-![not-cloudnative-pg](./not-cnpg.png)
+![CNPG Extensions](./cnpg-extensions.png)
 
-# not-cloudnative-pg
+# CNPG Extensions
 
 A home for PostgreSQL extension container images that are compatible with
 [CloudNativePG](https://cloudnative-pg.io/) but cannot be accepted into the
@@ -21,12 +21,12 @@ decision, not a criticism.
 
 | Repository | Description |
 |---|---|
-| [postgres-extensions-containers](https://github.com/not-cloudnative-pg/postgres-extensions-containers) | Container images for PostgreSQL extensions blocked from upstream by licensing |
+| [postgres-extensions-containers](https://github.com/cnpg-extensions/postgres-extensions-containers) | Container images for PostgreSQL extensions blocked from upstream by licensing |
 
 ## Usage
 
 See the
-[postgres-extensions-containers README](https://github.com/not-cloudnative-pg/postgres-extensions-containers#readme)
+[postgres-extensions-containers README](https://github.com/cnpg-extensions/postgres-extensions-containers#readme)
 and each extension's directory for `Cluster` and `Database` YAML examples.
 
 ## Relationship to upstream
