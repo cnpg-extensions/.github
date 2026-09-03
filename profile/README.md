@@ -22,6 +22,7 @@ decision, not a criticism.
 | Repository | Description |
 |---|---|
 | [postgres-extensions-containers](https://github.com/cnpg-extensions/postgres-extensions-containers) | Container images for PostgreSQL extensions blocked from upstream by licensing |
+| [artifacts](https://github.com/cnpg-extensions/artifacts) | Official `ClusterImageCatalog` manifests and signatures for the extension images |
 
 ## Usage
 
